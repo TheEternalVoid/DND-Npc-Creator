@@ -1,4 +1,3 @@
-#testing git
 import create_npc
 import sqlite3
 
